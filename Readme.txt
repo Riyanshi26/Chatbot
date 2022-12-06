@@ -1,3 +1,6 @@
+An interactive chatbot that could respond to some basic queries in real-time. This chatbot is especially designed to solve the queries regarding IIT Bhilai.
+
+
 Open the folder in the command prompt or terminal (cd foldername) and run the below given commands.
 
 1. To run the chatbot, we have two main files; train.py and query_chatbot.py.
